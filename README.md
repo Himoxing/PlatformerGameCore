@@ -1,7 +1,7 @@
 # 🎮 Platformer System for Godot
 
-**EN**: 🚀 The ultimate no-code solution for creating 2D platformers in Godot 4. Perfect for beginners and pros!  
-**PL**: 🚀 Zaawansowany system do tworzenia gier platformowych w Godot 4 bez pisania kodu. Dla początkujących i profesjonalistów!
+**EN**: 🚀 Extensive system, no-code solution for creating 2D platformers in Godot 4. Perfect for beginners!  
+**PL**: 🚀 Rozbudowany system do tworzenia (gier) Platformówek w Godot 4 (bez programowania). Idealne dla początkujących!
 
 [![Platformer System Trailer](https://img.youtube.com/vi/bhua79q8ZhU/0.jpg)](https://youtu.be/bhua79q8ZhU?si=ENzi5ovg-2fhHJOX)
 
